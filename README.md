@@ -2,7 +2,7 @@
 
 A fast-paced space shooter where you defend the galaxy against invading UFOs and asteroids. Dodge enemies, shoot your way through waves, and survive as long as you can!
 
-![Gameplay Preview](galaxy1.jpg) *Replace with your own screenshot*
+![Gameplay Preview](galaxy1.jpg)
 
 ---
 
