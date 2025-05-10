@@ -15,31 +15,6 @@ A fast-paced space shooter where you defend the galaxy against invading UFOs and
 
 ---
 
-## Installation
-
-1. **Prerequisites**:
-   - Python 3.x
-   - Pygame library
-
-2. **Setup**:
-   ```bash
-   pip install pygame
-Assets:
-
-Place these images in your game directory (or adjust filenames in the code):
-
-galaxy1.jpg (background)
-
-rocket1.png (player sprite)
-
-ufo1.png (enemy UFOs)
-
-asteroid1.png (asteroids)
-
-bullet.png (bullets)
-
-Optional: Add fire.ogg for shooting sound effects.
-
 How to Play
 Controls
 Left/Right Arrow Keys: Move your spaceship
