@@ -46,5 +46,9 @@ You lose when your missed-score **difference** is more than 10
 
 You never stop playing until you lose of stop
 
+You progress by a level when you reach a score of 30.
 
+---
+
+Enjoy playing!
 Created with Pygame.
