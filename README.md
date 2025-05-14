@@ -1,4 +1,4 @@
-# Shooter Game Beta v1.02
+# Shooter Game v1.0
 
 A fast-paced space shooter where you defend the galaxy against invading UFOs and asteroids. Dodge enemies, shoot your way through waves, and survive as long as you can!
 
@@ -15,23 +15,25 @@ A fast-paced space shooter where you defend the galaxy against invading UFOs and
 
 ---
 
-How to Play
-Controls
+## How to Play
+
+**Controls:**
+
 Left/Right Arrow Keys: Move your spaceship
 
 Spacebar: Fire bullets (10 shots max, 3-second reload)
 
 Objectives
-Shoot Enemies (UFOs): +1 point per hit.
+Shoot Enemies (UFOs + Asteroids): +1 point per hit.
 
-Avoid Enemies/Asteroids: Enemies escaping the screen increase your "Missed" counter.
+Avoid Enemies: Enemies escaping the screen increase your "Missed" counter.
 
 Balance Score vs. Missed: Lose if Missed - Score ≥ 10.
 
 Progression
 Reach 30 points to advance to the next level (enemies speed up!).
 
-Game Mechanics
+**Game Mechanics:** 
 Enemies: Randomly spawn UFOs and asteroids from the top.
 
 Bullets: Auto-destroy after hitting targets or leaving the screen.
@@ -40,11 +42,9 @@ Reload System: Forced 3-second cooldown after 10 shots.
 
 Difficulty Scaling: Each level increases enemy speed.
 
-License
-Free for use and modification. Credit to original asset creators if applicable.
+You lose when your missed-score **difference** is more than 10
 
-Created with Pygame
-Adjust sprites/sounds to customize your experience!
+You never stop playing until you lose of stop
 
 
-This README provides clear instructions, explains gameplay mechanics, and highlights dependencies. Customize the "Assets" section based on where/how you distribute the game files.
+Created with Pygame.
